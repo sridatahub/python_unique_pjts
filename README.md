@@ -66,5 +66,11 @@ def list_students(student_dict):
         print(f"Roll No: {roll_no}, Name: {details['Name']}, Branch: {details['Branch']}, CGPA: {details['CGPA']}, City: {details['City']}")
 ```
 
-### Thank you for visiting my work! I appreciate your interest in this College Student Database Management System. If you have any questions, suggestions, or feedback, please don't hesitate to reach out.  I'm always looking for ways to improve and learn.
+### Thank you for visiting my work! I appreciate your interest in this College Student Database Management System. 
+If you have any questions, suggestions, or feedback, please don't hesitate to reach out.  I'm always looking for ways to improve and learn.
+
+## Contact
+
+*   **Email:** srikanthchavala2424@gmail.com
+*   **LinkedIn:** [srikanth-data](https://www.linkedin.com/in/srikanth-data/)
 
