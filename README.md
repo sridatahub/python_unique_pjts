@@ -24,7 +24,8 @@ def add_student(student_dict, roll_no, name, branch, cgpa, city):
         print("Error: Roll number already exists.")
 ```
 
-###2. `remove_student(student_dict, roll_no)`
+### 2. `remove_student(student_dict, roll_no)`
+
 This function removes a student from the `student_dict`.
 
 ```python
@@ -35,7 +36,8 @@ def remove_student(student_dict, roll_no):
     else:
         print("Error: Roll number not found.")
 ```
-###3. `update_student(student_dict, roll_no, name=None, branch=None, cgpa=None, city=None)`
+### 3. `update_student(student_dict, roll_no, name=None, branch=None, cgpa=None, city=None)`
+
 This function updates the details of a student in the `student_dict`.
 ```python
 def update_student(student_dict, roll_no, name=None, branch=None, cgpa=None, city=None):
@@ -52,7 +54,8 @@ def update_student(student_dict, roll_no, name=None, branch=None, cgpa=None, cit
     else:
         print("Error: Roll number not found.")
 ```
-###4.`list_students(student_dict)`
+### 4.`list_students(student_dict)`
+
 This function lists all the students in the `student_dict`.
 ```python
 def list_students(student_dict):
